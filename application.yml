@@ -1,0 +1,3 @@
+appConfig:
+  greet:
+    message: Hello from order-service
