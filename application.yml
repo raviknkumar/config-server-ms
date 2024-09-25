@@ -1,3 +1,4 @@
 appConfig:
   greet:
     message: Hello from order-service using git
+    enabled: true
